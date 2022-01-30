@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithupRepository\\TurkcellBootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj": {}
+    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj": {}
   },
   "projects": {
-    "D:\\GithupRepository\\TurkcellBootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj": {
+    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithupRepository\\TurkcellBootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj",
+        "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj",
         "projectName": "indexOfHikayesi",
-        "projectPath": "D:\\GithupRepository\\TurkcellBootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj",
+        "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\indexOfHikayesi\\indexOfHikayesi.csproj",
         "packagesPath": "C:\\Users\\ramazan\\.nuget\\packages\\",
-        "outputPath": "D:\\GithupRepository\\TurkcellBootcamp\\DersKodlari\\indexOfHikayesi\\obj\\",
+        "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\indexOfHikayesi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
