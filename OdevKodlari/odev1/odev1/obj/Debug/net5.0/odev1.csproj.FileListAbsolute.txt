@@ -1,0 +1,16 @@
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.exe
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.deps.json
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.runtimeconfig.json
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.runtimeconfig.dev.json
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.dll
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\ref\odev1.dll
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\bin\Debug\net5.0\odev1.pdb
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.AssemblyInfoInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.AssemblyInfo.cs
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.dll
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\ref\odev1.dll
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.pdb
+D:\GithupRepository\Turkcell_Bootcamp\OdevKodlari\odev1\odev1\obj\Debug\net5.0\odev1.genruntimeconfig.cache
