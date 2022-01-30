@@ -6,7 +6,7 @@ namespace odev1
     {
         static void Main(string[] args)
         {
-            /*
+            
             
 
 
@@ -32,7 +32,7 @@ namespace odev1
             
              
              
-            */
+            
 
             // Contains() Metodu kullanarak girilen cümlede aranan kelimenin oldup olmadığını bulan program.
             Console.WriteLine("Cümle giriniz: ");
