@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ramazan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\turka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\TemelKavramlar\\TemelKavramlar\\TemelKavramlar.csproj",
+      "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\TemelKavramlar\\TemelKavramlar\\TemelKavramlar.csproj",
       "projectName": "TemelKavramlar",
-      "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\TemelKavramlar\\TemelKavramlar\\TemelKavramlar.csproj",
-      "packagesPath": "C:\\Users\\ramazan\\.nuget\\packages\\",
-      "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\TemelKavramlar\\TemelKavramlar\\obj\\",
+      "projectPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\TemelKavramlar\\TemelKavramlar\\TemelKavramlar.csproj",
+      "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\TemelKavramlar\\TemelKavramlar\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ramazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

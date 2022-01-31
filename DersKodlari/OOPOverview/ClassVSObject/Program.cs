@@ -6,10 +6,11 @@ namespace ClassVSObject
     {
         static void Main(string[] args)
         {
+            
 
             int yas = 42;
             bool olurMu = true;
-            if (yas == 42)
+            if (yas==5)
             {
 
             }
@@ -17,18 +18,15 @@ namespace ClassVSObject
             Person worker = new Person();
             worker.Name = "Murat";
             worker.Age = 38;
-            worker.LastName = "köse";
+            worker.LastName = "Pirinççi";
 
             Person cooker = worker;
             cooker.Name = "Filiz";
             cooker.Age = 24;
 
+
+
             Console.WriteLine(worker.Name);
-
-
-
-
-
         }
     }
 }

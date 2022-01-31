@@ -6,17 +6,15 @@ using System.Threading.Tasks;
 
 namespace ClassVSObject
 {
-    class Person
+    public class Person
     {
-        public string Name { get; set; }
-        public string LastName { get; set; }
-        public byte Age { get; set; }
-        public bool IsMarried { get; set; }
-        public double Weight { get; set; }
-
-        public Adress HomeAdress { get; set; }
-        public Adress WorkAdress { get; set; } 
-
+        public string Name;
+        public string LastName;
+        public byte Age;
+        public bool IsMarried;
+        public double Weight;
+        public Address HomeAddress;
+        public Address WorkAddress;
 
     }
 }

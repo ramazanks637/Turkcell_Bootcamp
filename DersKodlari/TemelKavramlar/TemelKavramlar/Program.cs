@@ -2,8 +2,11 @@
 
 namespace TemelKavramlar
 {
+
+
     class Program
     {
+
         static void Main(string[] args)
         {
             //int sayi = 257;
@@ -49,18 +52,23 @@ namespace TemelKavramlar
             {
                 Console.WriteLine("Tam sayılar 0'a bölünemez");
             }
-            catch (Exception exception)
+            catch(Exception exception)
             {
                 Console.WriteLine(exception.Message);
             }
 
             String s = "merhaba";
             string x = "merhaba";
-
+            
 
             //bool olurMu = true;
             //Boolean olsunMu = false;
             //int sayi = 5;
+         
+
+
+
+
         }
     }
 }
