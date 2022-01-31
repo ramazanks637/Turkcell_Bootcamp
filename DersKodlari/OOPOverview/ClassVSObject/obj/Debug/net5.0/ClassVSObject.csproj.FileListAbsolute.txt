@@ -1,0 +1,16 @@
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.exe
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.deps.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.runtimeconfig.dev.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ref\ClassVSObject.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\bin\Debug\net5.0\ClassVSObject.pdb
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfoInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.AssemblyInfo.cs
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ref\ClassVSObject.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.pdb
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\ClassVSObject\obj\Debug\net5.0\ClassVSObject.genruntimeconfig.cache
