@@ -8,9 +8,8 @@ namespace Encapsulation
 {
     public class Person
     {
-
-
         private int age;
+
         public void SetAge(int value)
         {
             if (value > 0)
@@ -23,13 +22,11 @@ namespace Encapsulation
             }
         }
 
-
         public int GetAge()
         {
             return age;
         }
 
-        
         private string name;
         public string Name
         {
@@ -43,8 +40,6 @@ namespace Encapsulation
 
             }
         }
-
-
         private string lastName;
         public string LastName
         {
@@ -61,6 +56,9 @@ namespace Encapsulation
         public string Address { get; set; }
         public string PhoneNumber { get; set; }
         public decimal Salary { get; set; }
+
+
+
 
 
     }

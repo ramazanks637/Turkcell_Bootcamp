@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\OOPOverview\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\OOPOverview\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\OOPOverview\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\OOPOverview\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\OOPOverview\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\OOPOverview\\Inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\OOPOverview\\Inheritance\\Inheritance.csproj",
-        "packagesPath": "C:\\Users\\ramazan\\.nuget\\packages\\",
-        "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\OOPOverview\\Inheritance\\obj\\",
+        "projectPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\OOPOverview\\Inheritance\\Inheritance.csproj",
+        "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\OOPOverview\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ramazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
