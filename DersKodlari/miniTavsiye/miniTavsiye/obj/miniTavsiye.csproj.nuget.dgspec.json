@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj": {}
+    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj": {
+    "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj",
+        "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj",
         "projectName": "miniTavsiye",
-        "projectPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj",
-        "packagesPath": "C:\\Users\\turka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turka\\source\\repos\\Turkcell Gelecegi Yazanlar\\Bootcamp\\miniTavsiye\\miniTavsiye\\obj\\",
+        "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\miniTavsiye\\miniTavsiye\\miniTavsiye.csproj",
+        "packagesPath": "C:\\Users\\ramazan\\.nuget\\packages\\",
+        "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\DersKodlari\\miniTavsiye\\miniTavsiye\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\turka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ramazan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

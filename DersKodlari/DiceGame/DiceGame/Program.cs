@@ -20,7 +20,7 @@ namespace DiceGame
              * 6. Atilan zarlar karşılaştırılır
              * 7. Büyük atan kazanır
              * 
-             * 
+             *  
              */
 
             Game game = new Game();

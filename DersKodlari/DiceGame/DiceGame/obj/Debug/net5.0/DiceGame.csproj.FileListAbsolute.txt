@@ -14,3 +14,19 @@ C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\DiceGame\DiceGam
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\DiceGame\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.pdb
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.exe
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.deps.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.runtimeconfig.dev.json
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\ref\DiceGame.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\bin\Debug\net5.0\DiceGame.pdb
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfoInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.AssemblyInfo.cs
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\ref\DiceGame.dll
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.pdb
+D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\DiceGame\DiceGame\obj\Debug\net5.0\DiceGame.genruntimeconfig.cache
