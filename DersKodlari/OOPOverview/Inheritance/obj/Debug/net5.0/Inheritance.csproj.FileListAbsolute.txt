@@ -13,19 +13,3 @@ C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\OOPOverview\Inhe
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\OOPOverview\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.pdb
 C:\Users\turka\source\repos\Turkcell Gelecegi Yazanlar\Bootcamp\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.exe
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.dll
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\bin\Debug\net5.0\Inheritance.pdb
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.dll
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.pdb
-D:\GithupRepository\Turkcell_Bootcamp\DersKodlari\OOPOverview\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache

@@ -9,7 +9,7 @@ namespace OpenClosedPrinciple
             /*
              * Bir nesne DEĞİŞİME KAPALI, GELİŞİME AÇIK olmalıdır.
              * 
-            */
+             */
 
             Customer customer = new Customer { Name = "Türkay", Cart = new SilverCart() };
             OrderManager orderManager = new OrderManager { Customer = customer };
