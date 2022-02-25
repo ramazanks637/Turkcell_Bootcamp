@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2\\odev2\\odev2.csproj",
+      "projectUniqueName": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2_GameProject\\odev2\\odev2.csproj",
       "projectName": "odev2",
-      "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2\\odev2\\odev2.csproj",
+      "projectPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2_GameProject\\odev2\\odev2.csproj",
       "packagesPath": "C:\\Users\\ramazan\\.nuget\\packages\\",
-      "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2\\odev2\\obj\\",
+      "outputPath": "D:\\GithupRepository\\Turkcell_Bootcamp\\OdevKodlari\\odev2_GameProject\\odev2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
