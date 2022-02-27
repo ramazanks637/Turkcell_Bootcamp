@@ -6,70 +6,45 @@ using System.Threading.Tasks;
 
 namespace odev2
 {
-    public class Weapons
-    {
-        public string Name { get; set; }
-        public int MinDamage { get; set; }
-        public int MaxDamage { get; set; }
-        public int Damage { get; set; }
 
-    }
-
-    public class Vandal : Weapons,IAutoFire
+    public class Vandal:AutoFire
     {
-        public int FireDamage()
-        {
-            MinDamage = 0;
-            MaxDamage = 10;
-            Random rnd = new Random();
-            Damage = rnd.Next(MinDamage, MaxDamage);
-            return Damage;
+        public Vandal(){
+            base.Name = "Vandal";
+            base.MinDamage = 0;
+            base.MaxDamage = 10;
         }
-
     }
 
-    public class OperatorAWM : Weapons,IScope
+    public class OperatorAWM : Scope
     {
         public bool ScopeIsThere { get; set; }
-
-        public int FireDamage()
+        public OperatorAWM()
         {
-            MinDamage = 0;
-            MaxDamage = 10;
-            Random rnd = new Random();
-            Damage = rnd.Next(MinDamage, MaxDamage);
-            return Damage;
-        }
-
-        public int ScopeDamage()
-        {
-            Damage = 100;
-            return Damage;
+            base.Name = "OperatorAWM";
+            base.MinDamage = 0;
+            base.MaxDamage = 100;
         }
     }
 
-    public class Prowler : Weapons, IBurst
+    public class Prowler : Burst
     {
-        public int BurstDamage()
+        public Prowler()
         {
-            MinDamage = 0;
-            MaxDamage = 10;
-            Random rnd = new Random();
-            Damage = rnd.Next(MinDamage, MaxDamage);
-            return Damage * 3;
+            base.Name = "Prowler";
+            base.MinDamage = 0;
+            base.MaxDamage = 5;
         }
     }
 
-    public class Knife : Weapons, IKnife
+    public class Knife : IKnife
     {
         public bool IsClose { get; set; }
-        public int KnifeDamage()
+        public Knife()
         {
-            MinDamage = 0;
-            MaxDamage = 5;
-            Random rnd = new Random();
-            Damage = rnd.Next(MinDamage, MaxDamage);
-            return Damage;
+            base.Name = "Knife";
+            base.MinDamage = 0;
+            base.MaxDamage = 3;
         }
     }
 
