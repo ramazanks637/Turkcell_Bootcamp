@@ -1,0 +1,10 @@
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\bin\Debug\Ado.Net.exe.config
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\bin\Debug\Ado.Net.exe
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\bin\Debug\Ado.Net.pdb
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.Form1.resources
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.Properties.Resources.resources
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.csproj.GenerateResource.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.exe
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\AdoNet\Ado.Net\obj\Debug\Ado.Net.pdb

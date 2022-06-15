@@ -1,0 +1,16 @@
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.exe
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.deps.json
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.json
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.runtimeconfig.dev.json
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ref\ExtensionMethods.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\net5.0\ExtensionMethods.pdb
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.AssemblyInfo.cs
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ref\ExtensionMethods.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.pdb
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\ExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\net5.0\ExtensionMethods.genruntimeconfig.cache

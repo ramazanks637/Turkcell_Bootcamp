@@ -1,0 +1,15 @@
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\GithupRepository\Turkcell_Bootcamp\Alistirmalar\EntityFramework\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
